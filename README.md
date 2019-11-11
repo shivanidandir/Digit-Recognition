@@ -1,4 +1,4 @@
 # Digit-Recognition
 Python
 
-Imported data using sklearn datasets and used KNN Classifier and obtained 0.98333333 accuracy.
+Imported data using sklearn datasets, used KNN Classifier for recognition of digits and obtained an accuracy of 0.98333333.
